@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Guild Wars 2 Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"84a12d05deaeff0d08847a8d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":2480446,"wgRevisionId":2480446,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using DynamicPageList3 parser function"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,
+"sdgDownArrowImage":"/extensions/SemanticDrilldown/skins/down-arrow.png","sdgRightArrowImage":"/extensions/SemanticDrilldown/skins/right-arrow.png","wgPopupsFlags":0,"wgMFDisplayWikibaseDescriptions":{"search":!1,"nearby":!1,"watchlist":!1,"tagline":!1},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":!1,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":!1,"srfFilteredConfig":null,"wgSiteNoticeId"
+:"1.104"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.srf.styles":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready","skins.monobook.responsive":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.smw.style","ext.smw.tooltips","smw.entityexaminer","site","mediawiki.page.ready","ext.popups","mmv.head","mmv.bootstrap.autostart","skins.monobook.mobile","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.dismissableSiteNotice.styles%7Cskins.monobook.responsive&amp;only=styles&amp;skin=monobook"/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=monobook"/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.srf.styles&amp;only=styles&amp;skin=monobook"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=monobook"></script>
+<style>#mw-indicator-mw-helplink {display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook"/>
+<meta name="generator" content="MediaWiki 1.36.4"/>
+<meta property="og:image" content="https://wiki.guildwars2.com/images/thumb/e/ee/Flame_and_Frost_banner.png/1200px-Flame_and_Frost_banner.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/>
+<link rel="alternate" type="application/rdf+xml" title="Main Page" href="/index.php?title=Special:ExportRDF/Main_Page&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Guild Wars 2 Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.guildwars2.com/api.php?action=rsd"/>
+<link rel="license" href="/wiki/Guild_Wars_2_Wiki:Copyrights"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W9FV56V');</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W9FV56V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Main_Page rootpage-Main_Page skin-monobook action-view skin--responsive"><div id="globalWrapper"><div id="column-content"><div id="content" class="mw-body" role="main"><a id="top"></a><div id="siteNotice" class="mw-body-content"><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cdiv style=\"border: 1px solid #0000FF; background: #CCCCEB; padding: 5px; margin-top: 2px; text-align: center;\"\u003EOn Wednesday April 27th 12:00 UTC the wiki will be down for one hour due to database maintenance. Please do not edit widely-used templates for a few hours prior to the maintenance.\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div><div class="mw-indicators mw-body-content">
+<div id="mw-indicator-smw-entity-examiner" class="mw-indicator"><div class="smw-entity-examiner smw-indicator-vertical-bar-loader" data-subject="Main_Page#0##" data-dir="ltr" data-uselang="" title="Running an examiner in the background"></div></div>
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Main Page</h1><div id="bodyContent" class="mw-body-content"><div id="siteSub">From Guild Wars 2 Wiki</div><div id="contentSub" lang="en" dir="ltr"></div><div id="jump-to-nav"></div><a href="#column-one" class="mw-jump-link">Jump to navigation</a><a href="#searchInput" class="mw-jump-link">Jump to search</a><!-- start content --><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="mainpage-background-wrapper">
+<div class="mainpage-banner">
+<p>Welcome to the official <span><a href="/wiki/Guild_Wars_2" title="Guild Wars 2"><img alt="Guild Wars 2" src="/images/thumb/c/c3/Main_page_GW2_%28End_of_Dragons%29.png/118px-Main_page_GW2_%28End_of_Dragons%29.png" decoding="async" width="118" height="20" srcset="/images/thumb/c/c3/Main_page_GW2_%28End_of_Dragons%29.png/177px-Main_page_GW2_%28End_of_Dragons%29.png 1.5x, /images/thumb/c/c3/Main_page_GW2_%28End_of_Dragons%29.png/236px-Main_page_GW2_%28End_of_Dragons%29.png 2x" data-file-width="1612" data-file-height="274" /></a></span> Wiki, the comprehensive reference written and maintained by the players.</p>
+</div>
+<div id="mainpage-content" class="mainpage-cell-wrapper">
+<div class="mainpage-cell mainpage-cell-double">
+<h2><span class="mw-headline" id="Current_release:_Flame_and_Frost">Current release: <a href="/wiki/Flame_and_Frost" title="Flame and Frost">Flame and Frost</a></span></h2>
+<div class="mainpage-featured-images nomobile"><a href="/wiki/Flame_and_Frost" title="Flame and Frost"><img alt="Flame and Frost banner.png" src="/images/thumb/e/ee/Flame_and_Frost_banner.png/658px-Flame_and_Frost_banner.png" decoding="async" width="658" height="226" srcset="/images/thumb/e/ee/Flame_and_Frost_banner.png/987px-Flame_and_Frost_banner.png 1.5x, /images/e/ee/Flame_and_Frost_banner.png 2x" data-file-width="1292" data-file-height="444" /></a></div>
+<div class="mainpage-featured-images mobileonly"><a href="/wiki/Flame_and_Frost" title="Flame and Frost"><img alt="Flame and Frost banner.png" src="/images/thumb/e/ee/Flame_and_Frost_banner.png/886px-Flame_and_Frost_banner.png" decoding="async" width="886" height="304" srcset="/images/e/ee/Flame_and_Frost_banner.png 1.5x" data-file-width="1292" data-file-height="444" /></a></div>
+<p>Experience <a href="/wiki/Living_World" title="Living World">Living World</a> from the beginning and see where the members of <a href="/wiki/Dragon%27s_Watch" title="Dragon&#39;s Watch">Dragon's Watch</a> began their journeys. The first episode of <a href="/wiki/Living_World_Season_1" title="Living World Season 1">Living World Season 1</a>, “Flame and Frost,” is now playable in Guild Wars 2 for the first time since 2013, along with new and returning rewards and new achievements. Living World Season 1 episodes will be free additions to the core game and available to all players, permanently.
+</p>
+<dl><dt><a href="/wiki/Flame_and_Frost" title="Flame and Frost">LEARN MORE</a></dt></dl>
+</div>
+<div class="mainpage-cell">
+<h2><span id="News_&amp;_updates"></span><span class="mw-headline" id="News_.26_updates">News &amp; updates</span></h2>
+<dl><dt>Current game status</dt>
+<dd>▪&#160;<a href="/wiki/Game_updates" title="Game updates">Game updates</a> - <a href="/wiki/Game_updates/2022-04-20" title="Game updates/2022-04-20">Wednesday&#44; 20 April 2022</a></dd>
+<dd>▪&#160;<a href="/wiki/Upcoming_changes_and_features" title="Upcoming changes and features">Upcoming changes and features</a></dd>
+<dd>▪&#160;<a href="/wiki/Release" title="Release">Releases</a> ▪&#160;<a href="/wiki/Release_calendar" title="Release calendar">Release calendar</a></dd>
+<dd>▪&#160;<a href="/wiki/Event_timers" title="Event timers">Event timers</a> ▪&#160;<a href="/wiki/Server_reset" title="Server reset">Server reset</a></dd></dl>
+<div id="mainpagenews" style="position:relative;">
+<script>
+(function() {
+
+function getChild(xmlElement, tag) {
+    if (xmlElement) {
+        for (var i=0;i < xmlElement.childNodes.length;i++) {
+            var elem = xmlElement.childNodes[i];
+            if (elem.tagName === tag) {
+                return elem;
+            }
+        }
+    }
+    return undefined;
+}
+function getChildren(xmlElement, tag) {
+    var childElements = [];
+    if (xmlElement) {
+        for (var i=0;i < xmlElement.childNodes.length;i++) {
+            var elem = xmlElement.childNodes[i];
+            if (elem.tagName === tag) {
+                childElements.push(elem);
+            }
+        }
+    }
+    return childElements;
+}
+
+var options = JSON.parse('{    \"count\": 10,    \"min\": 3,    \"add\": [    ]}');
+
+function addList(target, newsData, heightReference) {
+    if (window.getComputedStyle(heightReference, null).boxSizing !== 'border-box') {
+        setTimeout(function() {
+            addList(target, newsData, heightReference);
+        }, 1000/4);
+        return;
+    }
+    var initialHeight = heightReference.clientHeight;
+    var dl = document.createElement('dl');
+    target.appendChild(dl);
+    var previousDateHeading = undefined;
+    var count = options.count || 10;
+    var min = options.min || 3;
+    var i = 0;
+    for (;i < newsData.length && i !== count && (heightReference.clientHeight === initialHeight || i < min);i++) {
+        var news = newsData[i];
+        var currentDateHeading = news.date + (news.sticky ? ' \u2605' : '');
+        if (currentDateHeading !== previousDateHeading) {
+            previousDateHeading = currentDateHeading;
+            
+            var dt = document.createElement('dt');
+            dt.textContent = currentDateHeading;
+            dl.appendChild(dt);
+        }
+        if (news.link && news.title) {
+            var dd = document.createElement('dd');
+            var bulletNbsp = document.createTextNode('\u25AA\u00A0');
+            dd.appendChild(bulletNbsp);
+            
+            var a = document.createElement('a');
+            a.textContent = news.title;
+            a.classList.add('external');
+            a.classList.add('text');
+            a.rel = 'nofollow';
+            a.href = news.link;
+            dd.appendChild(a);
+            
+            dl.appendChild(dd);
+        }
+    }
+    var addedAtMostTheMinimumQuantity = i <= min;
+    if (heightReference.clientHeight !== initialHeight && !addedAtMostTheMinimumQuantity) {
+        dl.removeChild(dl.lastChild);
+        switch (dl.lastChild.tagName.toLowerCase()) {
+        case 'dt':
+            dl.removeChild(dl.lastChild);
+            break;
+        case 'dd':
+            break;
+        default:
+            console.error('Widget:News | Unexpected tag name "' + dl.lastChild.tagName + '".');
+            break;
+        }
+    }
+}
+var request = new XMLHttpRequest();
+request.addEventListener('load', function () {
+    if (request.readyState === 4) {
+        if (request.status == 200) {
+            var response = request.responseXML;
+            var rss = getChild(response, 'rss');
+            var channel = getChild(rss, 'channel');
+            var items = getChildren(channel, 'item');
+            // Only include items with the News category.
+            items = items.filter(function(item) {
+                var categories = getChildren(item, 'category');
+                return categories.filter(function(category) {
+                    return category.textContent === 'News';
+                }).length === 1;
+            });
+            var monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+            var newsData = items.map(function(item) {
+                var pubDate = new Date(getChild(item, 'pubDate').textContent);
+                var news = {};
+                news.title = getChild(item, 'title').textContent;
+                news.link = getChild(item, 'link').textContent;
+                var i = news.link.indexOf('?');
+                if (i !== -1) {
+                    news.link = news.link.substring(0, i);
+                }
+                news.date = monthNames[pubDate.getUTCMonth()] + ' ' + pubDate.getUTCDate() + ', ' + pubDate.getUTCFullYear();
+                var categories = getChildren(item, 'category');
+                news.sticky = categories.filter(function(category) {
+                    return category.textContent === 'Sticky';
+                }).length === 1;
+                return news;
+            });
+            // Add entries from the options object.
+            if (options.add) {
+                var forumUrl = 'https://en-forum.guildwars2.com/';
+                for (var i=0;i < options.add.length;i++) {
+                    var toAdd = options.add[i];
+                    if (toAdd.text && toAdd.link && toAdd.date) {
+                        // Allow only forum links.
+                        if (forumUrl.length <= toAdd.link.length && toAdd.link.substring(0, forumUrl.length) === forumUrl) {
+                            var news = {};
+                            news.title = toAdd.text;
+                            news.link = toAdd.link;
+                            news.date = toAdd.date;
+                            newsData.push(news);
+                        }
+                    }
+                }
+            }
+            // Hide entries specified in the options object.
+            if (options.hide) {
+                newsData = newsData.filter(function(news) {
+                    return options.hide.indexOf(news.title) === -1;
+                });
+            }
+            // Sort entries by date.
+            var pattern = new RegExp('^(' + monthNames.join('|') + ')[ ]{1}([0-9]{1,2})[,]{1}[ ]{1}([0-9]{4})$');
+            newsData = newsData.sort(function(a, b) {
+                var matchA = pattern.exec(a.date);
+                var matchB = pattern.exec(b.date);
+                if (!matchA && !matchB) {
+                    return 0;
+                }
+                return (matchA === null) - (matchB === null)
+                    || parseInt(matchB[3], 10) - parseInt(matchA[3], 10)
+                    || monthNames.indexOf(matchB[1]) - monthNames.indexOf(matchA[1])
+                    || parseInt(matchB[2], 10) - parseInt(matchA[2], 10);
+            });
+            // Sort sticky news to top.
+            newsData = newsData.sort(function(a, b) {
+                return b.sticky - a.sticky;
+            });
+            var target = document.getElementById('mainpagenews');
+            if (target) {
+                addList(target, newsData, target.parentNode);
+            } else {
+                console.error('Widget:News | No target element with #mainpagenews found.');
+            }
+        } else {
+            console.error('Widget:News | Could not retrieve the current news from the rss feed.', request.status + ' ' + request.statusText);
+        }
+    }
+});
+request.open('GET', 'https://www.guildwars2.com/en/feed/', true);
+request.send();
+
+})();
+</script><div id="newseditlink" class="plainlinks" style="font-size: 0.8em; font-style: italic; position:absolute; right:0; top:0;"><a rel="nofollow" class="external text" href="//wiki.guildwars2.com/index.php?title=Template:News&amp;action=edit">Edit</a></div></div>
+</div>
+<div class="mainpage-cell">
+<h2><span class="mw-headline" id="Basics">Basics</span></h2>
+<dl><dt><a href="/wiki/Running_the_game" title="Running the game">Running the game</a></dt>
+<dd>▪&#160;<a href="/wiki/Controls" title="Controls">Controls</a> ▪&#160;<a href="/wiki/Graphical_user_interface" title="Graphical user interface">User interface</a> ▪&#160;<a href="/wiki/World" title="World">Worlds</a></dd>
+<dt><a href="/wiki/Character" title="Character">Characters</a></dt>
+<dd>▪&#160;<a href="/wiki/Character_creation" title="Character creation">Character creation</a> ▪&#160;<a href="/wiki/Playable_races" title="Playable races">Races</a> ▪&#160;<a href="/wiki/Profession" title="Profession">Professions</a></dd>
+<dd>▪&#160;<a href="/wiki/Skill" title="Skill">Skills</a> ▪&#160;<a href="/wiki/Trait" title="Trait">Traits</a> ▪&#160;<a href="/wiki/Attribute" title="Attribute">Attributes</a></dd>
+<dd>▪&#160;<a href="/wiki/Specialization" title="Specialization">Specializations</a> ▪&#160;<a href="/wiki/Level_rewards" title="Level rewards">Level rewards</a></dd>
+<dt><a href="/wiki/Account" title="Account">Account</a></dt>
+<dd>▪&#160;<a href="/wiki/Achievement" title="Achievement">Achievements</a> ▪&#160;<a href="/wiki/Daily" title="Daily">Dailies</a> ▪&#160;<a href="/wiki/Login_rewards" title="Login rewards">Login rewards</a> ▪&#160;<a href="/wiki/Mastery" title="Mastery">Masteries</a> ▪&#160;<a href="/wiki/Account#Free_accounts" title="Account">Free account restrictions</a></dd>
+<dt>Features</dt>
+<dd>▪&#160;<a href="/wiki/Gliding" title="Gliding">Gliding</a> ▪&#160;<a href="/wiki/Mount" title="Mount">Mounts</a> ▪&#160;<a href="/wiki/Fishing" title="Fishing">Fishing</a> ▪&#160;<a href="/wiki/Skiff" title="Skiff">Skiffs</a></dd>
+<dt><a href="/wiki/Cooperation" title="Cooperation">Cooperation</a></dt>
+<dd>▪&#160;<a href="/wiki/Party" title="Party">Party</a> ▪&#160;<a href="/wiki/Squad" title="Squad">Squads</a> ▪&#160;<a href="/wiki/Contacts_and_LFG_panel" title="Contacts and LFG panel">Friends</a> ▪&#160;<a href="/wiki/Guild" title="Guild">Guilds</a></dd>
+<dt><a href="/wiki/Map" title="Map">Map</a></dt>
+<dd>▪&#160;<a href="/wiki/Zone" title="Zone">Zones</a> ▪&#160;<a href="/wiki/City" title="City">Cities</a> ▪&#160;<a href="/wiki/Home_instance" title="Home instance">Home instance</a> ▪&#160;<a href="/wiki/Jumping_puzzle" title="Jumping puzzle">Jumping puzzles</a></dd>
+<dt><a href="/wiki/Category:Glossary" title="Category:Glossary">Glossary</a> ▪&#160;<a href="/wiki/Abbreviations" title="Abbreviations">Abbreviations</a></dt></dl>
+</div>
+<div class="mainpage-cell">
+<h2><span class="mw-headline" id="Gameplay">Gameplay</span></h2>
+<dl><dt><a href="/wiki/Combat" title="Combat">Combat</a></dt>
+<dd>▪&#160;<a href="/wiki/Damage" title="Damage">Damage</a> ▪&#160;<a href="/wiki/Effect" title="Effect">Effects</a> ▪&#160;<a href="/wiki/Defiance_bar" title="Defiance bar">Defiance bar</a> ▪&#160;<a href="/wiki/Combo" title="Combo">Combos</a> ▪&#160;<a href="/wiki/Dynamic_level_adjustment" title="Dynamic level adjustment">Dynamic level adjustment</a></dd>
+<dt><a href="/wiki/Player_versus_Environment" title="Player versus Environment">Player versus Environment</a></dt>
+<dd>▪&#160;<a href="/wiki/Story_Journal" title="Story Journal">Story Journal</a> ▪&#160;<a href="/wiki/Dynamic_event" title="Dynamic event">Dynamic events</a> ▪&#160;<a href="/wiki/World_boss#Current_events" title="World boss">World bosses</a> ▪&#160;<a href="/wiki/Dungeon" title="Dungeon">Dungeons</a> ▪&#160;<a href="/wiki/Fractals_of_the_Mists" title="Fractals of the Mists">Fractals</a> ▪&#160;<a href="/wiki/Strike_Mission" title="Strike Mission">Strike Missions</a> ▪&#160;<a href="/wiki/Raid" title="Raid">Raids</a></dd>
+<dt><a href="/wiki/Map_completion" title="Map completion">Map completion</a></dt>
+<dd>▪&#160;<a href="/wiki/Renown_Heart" title="Renown Heart">Renown Hearts</a> ▪&#160;<a href="/wiki/Point_of_Interest" title="Point of Interest">Points of interest</a> ▪&#160;<a href="/wiki/Hero_challenge" title="Hero challenge">Hero challenges</a> ▪&#160;<a href="/wiki/Vista" title="Vista">Vistas</a> ▪&#160;<a href="/wiki/Waypoint" title="Waypoint">Waypoints</a></dd>
+<dt><a href="/wiki/Structured_PvP" title="Structured PvP">Structured PvP</a></dt>
+<dd>▪&#160;<a href="/wiki/Conquest" title="Conquest">Conquest</a> ▪&#160;<a href="/wiki/PvP_Reward_Track" title="PvP Reward Track">PvP Reward Tracks</a> ▪&#160;<a href="/wiki/PvP_Rank" title="PvP Rank">PvP Rank</a> ▪&#160;<a href="/wiki/PvP_League" title="PvP League">PvP League</a> ▪&#160;<a href="/wiki/Automated_Tournaments" title="Automated Tournaments">Automated Tournaments</a></dd>
+<dt><a href="/wiki/World_versus_World" title="World versus World">World vs World</a></dt>
+<dd>▪&#160;<a href="/wiki/Objective" title="Objective">Objectives</a> ▪&#160;<a href="/wiki/Siege_weapon" title="Siege weapon">Siege weapons</a> ▪&#160;<a href="/wiki/Skirmish_reward_track" title="Skirmish reward track">Skirmishes</a> ▪&#160;<a href="/wiki/WvW_Reward_Track" title="WvW Reward Track">WvW Reward Tracks</a> ▪&#160;<a href="/wiki/World_Experience" title="World Experience">World Experience</a></dd></dl>
+</div>
+<div class="mainpage-cell">
+<h2><span class="mw-headline" id="Gear_and_equipment">Gear and equipment</span></h2>
+<dl><dt><a href="/wiki/Equipment" title="Equipment">Equipment</a></dt>
+<dd>▪&#160;<a href="/wiki/Armor" title="Armor">Armor</a> ▪&#160;<a href="/wiki/Trinket" title="Trinket">Trinkets</a> ▪&#160;<a href="/wiki/Weapon" title="Weapon">Weapons</a></dd>
+<dd>▪&#160;<a href="/wiki/Attribute_combinations" title="Attribute combinations">Prefixes</a> ▪&#160;<a href="/wiki/Ascended_equipment" title="Ascended equipment">Ascended equipment</a></dd>
+<dt><a href="/wiki/Item" title="Item">Items</a> and <a href="/wiki/Inventory" title="Inventory">Inventory</a></dt>
+<dd>▪&#160;<a href="/wiki/Consumable" title="Consumable">Consumables</a> (<a href="/wiki/Food" title="Food">Food</a>, <a href="/wiki/Utility_item" title="Utility item">Utility</a>) ▪&#160;<a href="/wiki/Collections" title="Collections">Collections</a> ▪&#160;<a href="/wiki/Upgrade_component" title="Upgrade component">Upgrades</a> (<a href="/wiki/Rune" title="Rune">Runes</a>, <a href="/wiki/Sigil" title="Sigil">Sigils</a>, <a href="/wiki/Infusion" title="Infusion">Infusions</a>)</dd>
+<dt>Appearance</dt>
+<dd>▪&#160;<a href="/wiki/Wardrobe" title="Wardrobe">Wardrobe</a> ▪&#160;<a href="/wiki/Dye" title="Dye">Dye</a> ▪&#160;<a href="/wiki/Outfit" title="Outfit">Outfits</a></dd>
+<dt><a href="/wiki/Crafting" title="Crafting">Crafting</a></dt>
+<dd>▪&#160;<a href="/wiki/Recipe" title="Recipe">Recipes</a> ▪&#160;<a href="/wiki/Crafting_material" title="Crafting material">Materials</a> ▪&#160;<a href="/wiki/Mystic_Forge" title="Mystic Forge">Mystic Forge</a> ▪&#160;<a href="/wiki/Legendary_equipment" title="Legendary equipment">Legendary equipment</a></dd>
+<dt>Commerce and <a href="/wiki/Currency" title="Currency">currencies</a></dt>
+<dd>▪&#160;<a href="/wiki/Trading_Post" title="Trading Post">Trading Post</a> ▪&#160;<a href="/wiki/Gem_Store" title="Gem Store">Gem Store</a> ▪&#160;<a href="/wiki/Vendor" title="Vendor">Vendor</a> ▪&#160;<a href="/wiki/Account_vault" title="Account vault">Vault</a></dd></dl>
+</div>
+<div class="mainpage-cell">
+<h2><span class="mw-headline" id="History_and_lore">History and lore </span></h2>
+<dl><dt><a href="/wiki/Tyria_(world)" title="Tyria (world)">The world of Tyria</a></dt>
+<dd>▪&#160;<a href="/wiki/Tyria" title="Tyria">Tyria</a> ▪&#160;<a href="/wiki/The_Mists" title="The Mists">The Mists</a> ▪&#160;<a href="/wiki/Elona" title="Elona">Elona</a> ▪&#160;<a href="/wiki/Cantha" title="Cantha">Cantha</a></dd>
+<dd>▪&#160;<a href="/wiki/Bestiary" title="Bestiary">Bestiary</a></dd>
+<dt><a href="/wiki/Story_Journal" title="Story Journal">Story</a>, <a href="/wiki/Expansion" title="Expansion">Expansions</a> and <a href="/wiki/Living_World" title="Living World">Living World</a></dt>
+<dd>▪&#160;<a href="/wiki/Personal_Story" class="mw-redirect" title="Personal Story">Personal Story</a> ▪&#160;<a href="/wiki/Living_World_Season_1" title="Living World Season 1">Season One</a> ▪&#160;<a href="/wiki/Living_World_Season_2" title="Living World Season 2">Season Two</a></dd>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2:_Heart_of_Thorns" title="Guild Wars 2: Heart of Thorns"><img alt="HoT Texture Centered Trans.png" src="/images/thumb/5/52/HoT_Texture_Centered_Trans.png/30px-HoT_Texture_Centered_Trans.png" decoding="async" width="30" height="30" srcset="/images/thumb/5/52/HoT_Texture_Centered_Trans.png/45px-HoT_Texture_Centered_Trans.png 1.5x, /images/thumb/5/52/HoT_Texture_Centered_Trans.png/60px-HoT_Texture_Centered_Trans.png 2x" data-file-width="3000" data-file-height="3000" /></a>&#160;<a href="/wiki/Heart_of_Thorns" class="mw-redirect" title="Heart of Thorns">Heart of Thorns</a> ▪&#160;<a href="/wiki/Living_World_Season_3" title="Living World Season 3">Season Three</a></dd>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2:_Path_of_Fire" title="Guild Wars 2: Path of Fire"><img alt="PoF Texture Trans.png" src="/images/thumb/a/a7/PoF_Texture_Trans.png/30px-PoF_Texture_Trans.png" decoding="async" width="30" height="30" srcset="/images/thumb/a/a7/PoF_Texture_Trans.png/45px-PoF_Texture_Trans.png 1.5x, /images/thumb/a/a7/PoF_Texture_Trans.png/60px-PoF_Texture_Trans.png 2x" data-file-width="350" data-file-height="350" /></a>&#160;<a href="/wiki/Path_of_Fire" class="mw-redirect" title="Path of Fire">Path of Fire</a> ▪&#160;<a href="/wiki/Living_World_Season_4" title="Living World Season 4">Season Four</a></dd>
+<dd>▪&#160;<a href="/wiki/The_Icebrood_Saga" title="The Icebrood Saga">The Icebrood Saga</a></dd>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2:_End_of_Dragons" title="Guild Wars 2: End of Dragons"><img alt="EoD Texture Trans.png" src="/images/thumb/c/cc/EoD_Texture_Trans.png/30px-EoD_Texture_Trans.png" decoding="async" width="30" height="30" srcset="/images/thumb/c/cc/EoD_Texture_Trans.png/45px-EoD_Texture_Trans.png 1.5x, /images/thumb/c/cc/EoD_Texture_Trans.png/60px-EoD_Texture_Trans.png 2x" data-file-width="2000" data-file-height="2000" /></a>&#160;<a href="/wiki/End_of_Dragons" class="mw-redirect" title="End of Dragons">End of Dragons</a></dd>
+<dt><a href="/wiki/Lore" title="Lore">Lore</a> ▪&#160;<a href="/wiki/Timeline" title="Timeline">Timeline</a></dt>
+<dt><a href="/wiki/Merchandise" title="Merchandise">Merchandise</a></dt>
+<dd>▪&#160;<a href="/wiki/Ghosts_of_Ascalon" title="Ghosts of Ascalon">Ghosts of Ascalon</a> ▪&#160;<a href="/wiki/Edge_of_Destiny" title="Edge of Destiny">Edge of Destiny</a> ▪&#160;<a href="/wiki/Sea_of_Sorrows_(book)" title="Sea of Sorrows (book)">Sea of Sorrows</a> ▪&#160;<a href="/wiki/Soundtrack" title="Soundtrack">Soundtrack</a></dd></dl>
+</div>
+<div class="mainpage-cell">
+<h2><span class="mw-headline" id="Wiki_community">Wiki community</span></h2>
+<p>We are currently maintaining <a href="/wiki/Special:Statistics" title="Special:Statistics">100,529</a> <a href="/wiki/Special:AllPages" title="Special:AllPages">articles</a>!<br />
+</p>
+<dl><dt><a href="/wiki/Guild_Wars_2_Wiki:Community_portal" title="Guild Wars 2 Wiki:Community portal">Community portal</a></dt>
+<dd>▪&#160;<a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent changes</a> ▪&#160;<a href="/wiki/Special:NewPages" title="Special:NewPages">New pages</a> ▪&#160;<a href="/wiki/Special:NewFiles" title="Special:NewFiles">New files</a></dd>
+<dt><a href="/wiki/Help:Editing" title="Help:Editing">How to help</a></dt>
+<dd>▪&#160;<a href="/wiki/Category:Stubs" title="Category:Stubs">List of articles needing expansion</a> ▪&#160;<a href="/wiki/Guild_Wars_2_Wiki:Projects/On_Wiki_of_Gold" title="Guild Wars 2 Wiki:Projects/On Wiki of Gold">On Wiki of Gold</a></dd>
+<dt><a href="/wiki/Help:Contents" title="Help:Contents">Get help, or ask a question</a></dt>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2_Wiki:FAQ" title="Guild Wars 2 Wiki:FAQ">Frequently Asked Questions</a></dd>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2_Wiki:Ask_a_wiki_question" title="Guild Wars 2 Wiki:Ask a wiki question">Ask a wiki question</a></dd>
+<dd>▪&#160;<a href="/wiki/Guild_Wars_2_Wiki:IRC" title="Guild Wars 2 Wiki:IRC">Join us on IRC</a> ▪&#160;<a href="/wiki/Guild_Wars_2_Wiki:Discord" title="Guild Wars 2 Wiki:Discord">Join us on Discord</a></dd>
+<dt><a href="/wiki/Guild_Wars_2_Wiki:Practices_and_processes" title="Guild Wars 2 Wiki:Practices and processes">Practices and processes</a></dt>
+<dt><a href="/wiki/API:Main" title="API:Main">API Documentation</a></dt></dl>
+</div>
+</div>
+<div class="mainpage-banner">
+<p>You can reach this page from ingame at any time by typing "/wiki".<br />You can also search the wiki directly by adding search terms after the slash command: "/wiki example".</p>
+</div>
+<div id="editcopylink"><span>Changes for the main page are proposed <a href="/wiki/Main_Page/editcopy" title="Main Page/editcopy">here</a>, and the featured article can be changed <a href="/wiki/Template:Main_Page/featured" title="Template:Main Page/featured">here</a>.</span></div>
+</div>
+<!-- 
+NewPP limit report
+Cached time: 20220426191638
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.041 seconds
+Real time usage: 0.063 seconds
+Preprocessor visited node count: 68/1000000
+Post‐expand include size: 1132/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+ExtLoops count: 0/1000
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   34.297      1 -total
+ 40.14%   13.767      1 Template:Main_Page/special_event
+ 16.81%    5.766      1 Template:News
+  4.49%    1.539      1 Template:PoF
+  4.45%    1.527      1 Template:EoD
+  4.23%    1.452      1 Template:HoT
+  4.16%    1.428      1 Template:Main_Page/featured
+  2.63%    0.902      1 Template:Extension_DPL
+-->
+
+<!-- Saved in parser cache with key en_wikidb_gw2:pcache:idhash:1-0!dateformat=default and timestamp 20220426191638 and revision id 2480446. Serialized with JSON.
+ -->
+</div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://wiki.guildwars2.com/index.php?title=Main_Page&amp;oldid=2480446">https://wiki.guildwars2.com/index.php?title=Main_Page&amp;oldid=2480446</a>"</div>
+<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Pages_using_DynamicPageList3_parser_function" title="Category:Pages using DynamicPageList3 parser function">Pages using DynamicPageList3 parser function</a></li></ul></div></div><!-- end content --><div class="visualClear"></div></div></div><div class="visualClear"></div></div><div id="column-one" lang="en" dir="ltr"><h2>Navigation menu</h2><div role="navigation" class="portlet" id="p-cactions" aria-labelledby="p-cactions-label"><h3 id="p-cactions-label" lang="en" dir="ltr">Page actions</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="ca-nstab-main" class="selected"><a href="/wiki/Main_Page" title="View the content page [c]" accesskey="c">Main page</a></li><li id="ca-talk"><a href="/wiki/Talk:Main_Page" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li><li id="ca-viewsource"><a href="/index.php?title=Main_Page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/index.php?title=Main_Page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></div></div><div role="navigation" class="portlet" id="p-cactions-mobile" aria-labelledby="p-cactions-mobile-label"><h3 id="p-cactions-mobile-label" lang="en" dir="ltr">Page actions</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="ca-nstab-main-mobile" class="selected"><a href="/wiki/Main_Page" title="Main page">Main page</a></li><li id="ca-talk-mobile"><a href="/wiki/Talk:Main_Page" rel="discussion" title="Discussion">Discussion</a></li><li id="ca-more"><a href="#p-cactions">More</a></li><li id="ca-tools"><a href="#p-tb" title="Tools">Tools</a></li><li id="ca-languages"><a href="#p-lang" title="Other languages">Other languages</a></li></ul></div></div><div role="navigation" class="portlet" id="p-personal" aria-labelledby="p-personal-label"><h3 id="p-personal-label" lang="en" dir="ltr">Personal tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/index.php?title=Special:CreateAccount&amp;returnto=Main+Page" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Main+Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul></div></div><div class="portlet" id="p-logo" role="banner"><a href="/wiki/Main_Page" class="mw-wiki-logo" title="Visit the main page"></a></div><div id="sidebar"><div role="navigation" class="portlet generated-sidebar" id="p-navigation" aria-labelledby="p-navigation-label"><h3 id="p-navigation-label" lang="en" dir="ltr">Navigation</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Main-page"><a href="/wiki/Main_Page">Main page</a></li><li id="n-Quick-links"><a href="/wiki/Quick_access_links">Quick links</a></li><li id="n-Community-portal"><a href="/wiki/Guild_Wars_2_Wiki:Community_portal">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li></ul></div></div><div role="search" class="portlet" id="p-search"><h3 id="p-search-label" lang="en" dir="ltr"><label for="searchInput">Search</label></h3><div class="pBody" id="searchBody"><form action="/index.php" id="searchform"><input type="hidden" value="Special:Search" name="title"/><input type="search" name="search" placeholder="Search" autocapitalize="sentences" title="Search Guild Wars 2 Wiki [f]" accesskey="f" id="searchInput"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>  <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton"/></form></div></div><div role="navigation" class="portlet generated-sidebar" id="p-Wiki_support" aria-labelledby="p-Wiki_support-label"><h3 id="p-Wiki_support-label" lang="en" dir="ltr">Wiki support</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Help-center"><a href="/wiki/Help:Contents">Help center</a></li><li id="n-Editing-guide"><a href="/wiki/Help:Editing">Editing guide</a></li><li id="n-Admin-noticeboard"><a href="/wiki/Guild_Wars_2_Wiki:Admin_noticeboard">Admin noticeboard</a></li><li id="n-Report-a-wiki-bug"><a href="/wiki/Guild_Wars_2_Wiki:Reporting_wiki_bugs">Report a wiki bug</a></li><li id="n-Other-languages"><a href="/wiki/List_of_non-English_wikis">Other languages</a></li></ul></div></div><div role="navigation" class="portlet" id="p-tb" aria-labelledby="p-tb-label"><h3 id="p-tb-label" lang="en" dir="ltr">Tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Main_Page&amp;oldid=2480446" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li><li id="t-listtransclusions"><a href="/wiki/Special:ListTransclusions/Main_Page" title="List all transcluded templates and used images of this page">Transclusion list</a></li><li id="t-smwbrowselink"><a href="/wiki/Special:Browse/:Main-5FPage" rel="search">Browse properties</a></li></ul></div></div><div role="navigation" class="portlet" id="p-lang" aria-labelledby="p-lang-label"><h3 id="p-lang-label" lang="en" dir="ltr">Other languages</h3><div class="pBody"><ul lang="en" dir="ltr"><li class="interlanguage-link interwiki-de"><a href="https://wiki-de.guildwars2.com/wiki/Hauptseite" title="Hauptseite – Deutsch" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://wiki-es.guildwars2.com/wiki/P%C3%A1gina_principal" title="Página principal – español" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://wiki-fr.guildwars2.com/wiki/Accueil" title="Accueil – français" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li></ul></div></div></div><a href="#sidebar" title="navigation" class="menu-toggle" id="sidebar-toggle"></a><a href="#p-personal" title="user tools" class="menu-toggle" id="p-personal-toggle"></a><a href="#globalWrapper" title="back to top" class="menu-toggle" id="globalWrapper-toggle"></a></div><!-- end of the left (by default at least) column --><div class="visualClear"></div><div id="footer" class="mw-footer" role="contentinfo" lang="en" dir="ltr"><div id="f-copyrightico" class="footer-icons"><a href="https://www.arena.net/"><img src="/images/arenanet-logo.jpg" alt="Copyright ArenaNet" width="88" height="31" loading="lazy"/></a></div><div id="f-poweredbyico" class="footer-icons"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki"><img src="data:image/png;base64,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" alt="Powered by Semantic MediaWiki" class="smw-footer" width="88" height="31" loading="lazy"/></a></div><ul id="f-list"><li id="lastmod"> This page was last edited on 29 March 2022, at 18:37.</li><li id="copyright">Content is available under <a href="/wiki/Guild_Wars_2_Wiki:Copyrights" title="Guild Wars 2 Wiki:Copyrights">these licensing terms</a> unless otherwise noted.</li><li id="privacy"><a href="/wiki/Guild_Wars_2_Wiki:Privacy_policy" title="Guild Wars 2 Wiki:Privacy policy">Privacy policy</a></li><li id="about"><a href="/wiki/Guild_Wars_2_Wiki:About" title="Guild Wars 2 Wiki:About">About Guild Wars 2 Wiki</a></li><li id="disclaimer"><a href="/wiki/Guild_Wars_2_Wiki:General_disclaimer" title="Guild Wars 2 Wiki:General disclaimer">Disclaimers</a></li><li id="mobileview"><a href="//wiki.guildwars2.com/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li></ul></div></div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.041","walltime":"0.063","ppvisitednodes":{"value":68,"limit":1000000},"postexpandincludesize":{"value":1132,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   34.297      1 -total"," 40.14%   13.767      1 Template:Main_Page/special_event"," 16.81%    5.766      1 Template:News","  4.49%    1.539      1 Template:PoF","  4.45%    1.527      1 Template:EoD","  4.23%    1.452      1 Template:HoT","  4.16%    1.428      1 Template:Main_Page/featured","  2.63%    0.902      1 Template:Extension_DPL"]},"loops":{"limitreport-count-limited":{"value":0,"limit":1000}},"cachereport":{"timestamp":"20220426191638","ttl":3600,"transientcontent":true}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18978290-10', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107});});</script></body></html>
